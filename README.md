@@ -1,7 +1,7 @@
-- 👋 Hi, i´m Martin Andersson
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development for e-commerse
-- 💞️ I’m looking to collaborate on web projects
+- 👋 Hi, i´m Martin Andersson.
+- 👀 I’m a tech fanatic interested in coding.
+- 🌱 I’m currently sstudying to become a full-stack JavaScript developer att IT-University Gothenburg, Sweden.
+- 💞️ I’m looking to collaborate on JavaScript/ TypeScript projects.
 - 📫 martin.andersson@me.com
 
 <!---
